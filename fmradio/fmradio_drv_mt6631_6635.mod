@@ -1,0 +1,15 @@
+./chips/mt6631/pub/mt6631_fm_rds.o
+./chips/mt6635/pub/mt6635_fm_rds.o
+./chips/mt6631/pub/mt6631_fm_lib.o
+./chips/mt6635/pub/mt6635_fm_lib.o
+./core/fm_module.o
+./core/fm_main.o
+./core/fm_config.o
+./core/fm_rds_parser.o
+./core/fm_patch.o
+./core/fm_utils.o
+./core/fm_link.o
+./core/fm_eint.o
+./core/fm_cmd.o
+./core/fm_reg_utils.o
+./plat/legacy_wmt.o

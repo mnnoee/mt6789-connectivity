@@ -1,0 +1,6 @@
+0x00000000	connfem_is_available	connfem	EXPORT_SYMBOL	
+0x00000000	connfem_epaelna_get_fem_info	connfem	EXPORT_SYMBOL	
+0x00000000	connfem_epaelna_get_pin_info	connfem	EXPORT_SYMBOL	
+0x00000000	connfem_epaelna_laa_get_pin_info	connfem	EXPORT_SYMBOL	
+0x00000000	connfem_epaelna_get_flags	connfem	EXPORT_SYMBOL	
+0x00000000	connfem_epaelna_get_flags_names	connfem	EXPORT_SYMBOL	

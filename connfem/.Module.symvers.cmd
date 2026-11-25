@@ -1,0 +1,1 @@
+savedcmd_Module.symvers :=  /workdir/git/heliog99/src_linux/mtk_g99-mainline/scripts/mod/modpost -M      -w    -o Module.symvers -n -T modules.order -i /workdir/git/heliog99/src_linux/mtk_g99-mainline/Module.symvers -e 

@@ -1,0 +1,1 @@
+savedcmd_vendor_syms.ko := aarch64-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T /workdir/git/heliog99/src_linux/mtk_g99-mainline/scripts/module.lds -o vendor_syms.ko vendor_syms.o vendor_syms.mod.o .module-common.o

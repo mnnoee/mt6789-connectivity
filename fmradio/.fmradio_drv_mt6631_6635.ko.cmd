@@ -1,0 +1,1 @@
+savedcmd_fmradio_drv_mt6631_6635.ko := aarch64-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T /workdir/git/heliog99/src_linux/mtk_g99-mainline/scripts/module.lds -o fmradio_drv_mt6631_6635.ko fmradio_drv_mt6631_6635.o fmradio_drv_mt6631_6635.mod.o .module-common.o

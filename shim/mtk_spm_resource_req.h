@@ -1,0 +1,3 @@
+#ifndef MTK_SPM_RESOURCE_REQ_H
+#define MTK_SPM_RESOURCE_REQ_H
+#endif

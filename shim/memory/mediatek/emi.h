@@ -1,0 +1,3 @@
+#ifndef MEMORY_MEDIATEK_EMI_H
+#define MEMORY_MEDIATEK_EMI_H
+#endif
